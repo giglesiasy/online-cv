@@ -24,14 +24,14 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    idiomas:
+    languages:
       - idiom: Español
         level: Nativo
 
       - idiom: Ingles
         level: Fluido
 
-    intereses:
+    interests:
       - item: Fotografía
         link:
 
