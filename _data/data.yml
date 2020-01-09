@@ -24,6 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    title: Idiomas
     languages:
       - idiom: Español
         level: Nativo
