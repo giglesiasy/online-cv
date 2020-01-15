@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Gonzalo Iglesias
-    tagline: Data Scientist
+    tagline: Data Scientist - BI - Energy Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -76,41 +76,45 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Encargado de Desarrollo
+      time: 2018 - Present
+      company: EnorChile, Santiago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Encargado de las propuestas técnico-comerciales y la evaluación
+        de proyectos del área de operaciones. Desarrollador de proyectos internos de Business Intelligence
+        y reportabilidad de datos. Participación de la planificación estratégica de la empresa.
+        Responsable de los nuevos desafíos comerciales que se presentan en el área.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Ingeniero en Evaluación y Desarrollo de Negocios
+      time: 2016 - 2017
+      company: EnorChile, Santiago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Encargado de las propuestas técnico-comerciales y la evaluación de proyectos del área de operaciones.
+        Participación en la creación de nuevos contratos con clientes. 
+        Apoyo en análisis de mercado eléctrico chileno, tanto en proyecciones de costos marginales,
+        como temas normativos. Desarrollo del área de reportabilidad a clientes.
           - Bullet point
           - Bullet point
     - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+      time: 2016 - 2016
+      company: ATS Energía, Santiago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Encargado de análisis de factibilidad técnico-económica
+        de implementación de paneles solares en techos de edificios públicos,
+        bajo el marco normativo del Net-Billing.
+        Realización de informes de mercados eléctricos extranjeros.
+          - Bullet point
+          - Bullet point
+          
+    - role: Investigador de Apoyo
+      time: 2016 - 2016
+      company: UNIVERSIDAD ADOLFO IBAÑEZ, Santiago
+      details: |
+        Participación de una investigación científica en dinámica de fluidos, 
+        con objetivo de estudiar el impacto de la flexibilidad en el empuje 
+        producido por apéndices de natación, entre otros proyectos a 
+        cargo del profesor de la FIC Andrés Concha.
           - Bullet point
           - Bullet point
 projects:
