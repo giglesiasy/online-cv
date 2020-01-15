@@ -122,17 +122,20 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Predicción de Demanda
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Algoritmo de Deep Neural Networks que utiliza los datos históricos de demanda eléctrica y metereológicos del país,
+        para predecir la demanda eléctrica futura (72hrs)."
 
-      - title: DevStudio
+      - title: Dashboard Financiero
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Dashboard de Power BI integrado el sistema ERP de la empresa, donde se puede visualizar rápidamente el estado financiero
+        de la compañia, sus distintos centros de costos, análisis de presupuestos y reportes de KPI en tiempo real, entre otros."
 
-      - title: Tempo
+      - title: Dashboard Operaciones
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Dashboard de Power BI alimentado por los datos rescatados del Coordinador Eléctrico Nacional. Presenta distintas variables
+        y crea relaciones de interés para el área operativa de la empresa."
 
       - title: Atom
         link: "#"
