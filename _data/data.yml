@@ -62,8 +62,6 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: Ingeniería Civil en Energía y Medio Ambiente
       university: Universidad Adolfo Ibáñez
       time: 2011 - 2016
@@ -73,8 +71,6 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Encargado de Desarrollo
       time: 2018 - Present
@@ -84,8 +80,6 @@ experiences:
         de proyectos del área de operaciones. Desarrollador de proyectos internos de Business Intelligence
         y reportabilidad de datos. Participación de la planificación estratégica de la empresa.
         Responsable de los nuevos desafíos comerciales que se presentan en el área.
-          - Bullet point
-          - Bullet point
     - role: Ingeniero en Evaluación y Desarrollo de Negocios
       time: 2016 - 2017
       company: EnorChile, Santiago
@@ -94,8 +88,6 @@ experiences:
         Participación en la creación de nuevos contratos con clientes. 
         Apoyo en análisis de mercado eléctrico chileno, tanto en proyecciones de costos marginales,
         como temas normativos. Desarrollo del área de reportabilidad a clientes.
-          - Bullet point
-          - Bullet point
     - role: UI Developer
       time: 2016 - 2016
       company: ATS Energía, Santiago
@@ -104,8 +96,6 @@ experiences:
         de implementación de paneles solares en techos de edificios públicos,
         bajo el marco normativo del Net-Billing.
         Realización de informes de mercados eléctricos extranjeros.
-          - Bullet point
-          - Bullet point
           
     - role: Investigador de Apoyo
       time: 2016 - 2016
@@ -115,8 +105,6 @@ experiences:
         con objetivo de estudiar el impacto de la flexibilidad en el empuje 
         producido por apéndices de natación, entre otros proyectos a 
         cargo del profesor de la FIC Andrés Concha.
-          - Bullet point
-          - Bullet point
 projects:
     title: Projects
     intro: >
