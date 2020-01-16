@@ -147,7 +147,7 @@ skills:
     title: Habilidades &amp; Herramientas
 
     toolset:
-      - name: **bold** - Data Analysis, Machine Learning, GIS, Web scrapping
+      - name: Python - Data Analysis, Machine Learning, GIS, Web scrapping
         level: 90%
 
       - name: Power BI
