@@ -177,8 +177,13 @@ publications:
         authors: 
         conference: Stanford, 2018
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Beca de Honor Académico
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Otorgada por destacado rendimiento académico a lo largo de la carrera.
+        conference: Universidad Adolfo Ibañez, 2014-2015
+        
+      - title: Beca de Excelencia Académica Pedro Luis González
+        link: "#"
+        authors: Beca de 75% por puntaje PSU ponderado mayor a 750 puntos.
+        conference: Universidad Adolfo Ibañez, 2011-2015
 
