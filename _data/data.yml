@@ -109,7 +109,7 @@ experiences:
           
     - role: Investigador de Apoyo
       time: 2016 - 2016
-      company: UNIVERSIDAD ADOLFO IBAÑEZ, Santiago
+      company: Universidad Adolfo Ibañez, Santiago
       details: |
         Participación de una investigación científica en dinámica de fluidos, 
         con objetivo de estudiar el impacto de la flexibilidad en el empuje 
@@ -118,9 +118,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Principales proyectos desarrollados a lo largo de mi carrera, todos ellos utilizando Python, MySQL, Power BI o cualquier combinación
+      de ellos.
     assignments:
       - title: Predicción de Demanda
         link: "#hook"
