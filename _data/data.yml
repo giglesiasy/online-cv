@@ -147,7 +147,7 @@ skills:
     title: Habilidades &amp; Herramientas
 
     toolset:
-      - name: Python - Data Analysis, Machine Learning, GIS, Web scrapping
+      - name: Python
         level: 90%
 
       - name: Power BI
@@ -167,9 +167,9 @@ publications:
     intro: |
       
     papers:
-      - title: Fundamentos de Data Science
+      - title: Curso Fundamentos Data Science
         link: "#"
-        authors: 
+        authors:
         conference: Desafío Latam, 2019
 
       - title: Machine Learning MOOC
