@@ -118,7 +118,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Principales proyectos desarrollados a lo largo de mi carrera, todos ellos utilizando Python, MySQL, Power BI o cualquier combinación
+      Principales proyectos desarrollados y/o en desarrollo a lo largo de mi carrera, todos ellos utilizando Python, MySQL, Power BI o cualquier combinación
       de ellos.
     assignments:
       - title: Predicción de Demanda
