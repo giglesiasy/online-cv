@@ -161,6 +161,9 @@ skills:
 
       - name: QGIS
         level: 60%
+        
+      - name: R
+        level: 30%        
 
 publications:
     title: Otros Cursos y Reconocimientos
