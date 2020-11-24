@@ -117,8 +117,7 @@ experiences:
 projects:
     title: Proyectos
     intro: >
-      Principales proyectos desarrollados y/o en desarrollo a lo largo de mi carrera, todos ellos utilizando Python, MySQL, Power BI o cualquier combinación
-      de ellos.
+      Principales proyectos desarrollados y/o en desarrollo a lo largo de mi carrera, utilizando principalmente Python, MySQL, Power BI.
     assignments:
       - title: Proyecciones de Generación
         link: "#hook"
