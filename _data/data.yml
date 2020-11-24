@@ -88,9 +88,8 @@ experiences:
       details: |
         Encargado de las propuestas técnico-comerciales y la evaluación
         de proyectos del área de operaciones. Desarrollador de proyectos internos de Business Intelligence
-        y reportabilidad de datos. Participación de la planificación estratégica de la empresa.
-        Responsable de los nuevos desafíos comerciales que se presentan en el área.
-    - role: Ingeniero en Evaluación y Desarrollo de Negocios
+        y Data Science, desarrollador del Reporte de Emisiones del Sistema Eléctrico Nacional. Participación de la planificación estratégica de la empresa.
+     - role: Ingeniero en Evaluación y Desarrollo de Negocios
       time: 2016 - 2017
       company: EnorChile, Santiago
       details: |
@@ -121,6 +120,17 @@ projects:
       Principales proyectos desarrollados y/o en desarrollo a lo largo de mi carrera, todos ellos utilizando Python, MySQL, Power BI o cualquier combinación
       de ellos.
     assignments:
+      - title: Proyecciones de Generación
+        link: "#hook"
+        tagline: "Servicio que utiliza Machine Learning, que estima la generación de centrales de energía renovable variable (Solar y Eólica), y reporta al 
+        Coordinador Eléctrico Nacional según lo indicado por la normativa."
+        
+      - title: Reporte de Emisiones de CO2 del Sistema Eléctrico Nacional
+        link: "#hook"
+        tagline: "Dashboard público que utiliza los datos de operación reales del Coordinador Eléctrico Nacional, junto con información de los reportes del IPCC en
+        cuanto a factores de emisiones, para entregar un reporte estimado e interactivo de las emisiones de CO2 equivalentes producidas por el sector eléctrico nacional.
+        https://enorchile.cl/emisiones/"
+        
       - title: Predicción de Demanda
         link: "#hook"
         tagline: "Algoritmo de Deep Neural Networks que utiliza los datos históricos de demanda eléctrica y metereológicos del país,
