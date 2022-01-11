@@ -45,13 +45,11 @@ sidebar:
 career-profile:
     title: Resumen Profesional
     summary: 
-      Ingeniero Civil con más de 4 años de experiencia en la industria eléctrica,
-      trabajando con datos en Business Intelligence y Machine Learning.
-      Con el objetivo de generar un impacto positivo en el mundo. 
-      De rápido aprendizaje, capaz de pensamiento conceptual y analítico. 
-      Autodidacta, con facilidad para aprender nuevas habilidades. 
-      Con alta flexibilidad para adaptarse a distintas situaciones de trabajo y
-      buena disposición para trabajar tanto en equipo como de manera independiente.
+      Ingeniero Civil con más de 5 años de experiencia en la industria eléctrica.
+      Científico de datos con experiencia en Business Intelligence y Machine Learning.
+      Con el objetivo de generar un impacto positivo en el mundo. De rápido aprendizaje,
+      capaz de pensamiento conceptual y analítico. Autodidacta, con facilidad para aprender nuevas habilidades.
+      Con alta flexibilidad para adaptarse a distintas situaciones de trabajo y buena disposición para trabajar tanto en equipo como de manera independiente. 
 education:
     - degree: Diplomado en Regulación y Mercado de la Energía Eléctrica
       university: Universidad de Santiago de Chile
@@ -86,9 +84,7 @@ experiences:
       time: 2018 - Presente
       company: EnorChile, Santiago
       details: |
-        Encargado de las propuestas técnico-comerciales y la evaluación
-        de proyectos del área de operaciones. Desarrollador de proyectos internos de Business Intelligence
-        y Data Science, desarrollador del sistema de pronóstico de generación ERNC de EnorChile y Reporte de Emisiones del Sistema Eléctrico Nacional. Participación de la planificación estratégica de la empresa.
+        Encargado de área de Inteligencia de Negocios y Desarrollos IA. Desarrollador de proyectos internos de Business Intelligence y Data Science, desarrollador del Sistema de Pronóstico de Generación ERNC de EnorChile y del Reporte de Emisiones del Sistema Eléctrico Nacional. Participación de la planificación estratégica de la empresa. 
     - role: Ingeniero en Evaluación y Desarrollo de Negocios
       time: 2016 - 2017
       company: EnorChile, Santiago
