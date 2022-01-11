@@ -133,7 +133,7 @@ projects:
 
       - title: Reporte Financiero
         link: "#"
-        tagline: "Dashboard en Power BI integrado el sistema ERP de la empresa,
+        tagline: "Dashboard en Power BI integrado al sistema ERP de la empresa,
         donde se puede visualizar rápidamente el estado financiero de la compañia,
         sus distintos centros de costos, análisis de presupuestos y reportes de KPI en tiempo real, entre otros."
 
@@ -145,7 +145,7 @@ projects:
       - title: Análisis de Mercado
         link: "#"
         tagline: "Dashboard en Power BI, analizando el mercado eléctrico chileno y su operación en distintas dimensiones,
-        permitiendo generar insights y facilita las segmentaciones de mercado para el área comercial."
+        permitiendo generar insights y facilitar las segmentaciones de mercado para el área comercial."
 
 
 skills:
