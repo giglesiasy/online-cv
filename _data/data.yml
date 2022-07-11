@@ -24,34 +24,37 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    title: Idiomas
+    title: Languages
     languages:
-      - idiom: Español
-        level: Nativo
+      - idiom: Spanish
+        level: Native
 
-      - idiom: Ingles
-        level: Fluido
+      - idiom: English
+        level: Advanced - 106 TOEFL
 
     interests:
-      - item: Fotografía
+      - item: Photography
         link: https://www.flickr.com/gp/138133154@N07/06M2U9
 
-      - item: Senderismo
+      - item: Hiking
         link:
 
-      - item: Programación
+      - item: Programming
+        link:
+
+      - item: Music
         link:
 
 career-profile:
-    title: Resumen Profesional
+    title: Professional Abstract
     summary: 
-      Ingeniero Civil con más de 5 años de experiencia en la industria eléctrica.
-      Científico de datos con experiencia en Business Intelligence y Machine Learning.
-      Con el objetivo de generar un impacto positivo en el mundo. De rápido aprendizaje,
-      capaz de pensamiento conceptual y analítico. Autodidacta, con facilidad para aprender nuevas habilidades.
-      Con alta flexibilidad para adaptarse a distintas situaciones de trabajo y buena disposición para trabajar tanto en equipo como de manera independiente. 
+      Data Scientist & Civil Engineer with over 5 years of experience in the energy sector.
+      Experience in machine learning, particularly in time series forecasting pipelines and various business intelligence projects.
+      Fast learner and eager to keep broadening my knowledge and skillset.
+      Highly adaptable to a wide arrange of working conditions and great teamwork disposition while also being self-sufficient.
+
 education:
-    - degree: Diplomado en Regulación y Mercado de la Energía Eléctrica
+    - degree: Electric Energy Market and Regulations Diploma
       university: Universidad de Santiago de Chile
       time: 2017 - 2017
       details: |
@@ -60,18 +63,9 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-    - degree: Ingeniería Civil en Energía y Medio Ambiente
+    - degree: Energy and Environment Civil Engineer
       university: Universidad Adolfo Ibáñez
       time: 2011 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.    
-    - degree: Enseñansa Básica & Media
-      university: Saint Gabriel's School
-      time: 1999 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,38 +74,36 @@ education:
         pretium quis, sem.
         
 experiences:
-    - role: Encargado de Desarrollo
-      time: 2018 - Presente
+    - role: Lead Developer / Data Scientist
+      time: 2018 - Present
       company: EnorChile, Santiago
       details: |
-        Encargado de área de Inteligencia de Negocios y Desarrollos IA. Desarrollador de proyectos internos de Business Intelligence y Data Science, desarrollador del Sistema de Pronóstico de Generación ERNC de EnorChile y del Reporte de Emisiones del Sistema Eléctrico Nacional. Participación de la planificación estratégica de la empresa. 
-    - role: Ingeniero en Evaluación y Desarrollo de Negocios
+        ELeading the new Data Analysis Team. Developing business intelligence and machine learning projects. Designer and developer of: 
+•	ML based “Non-Conventional Renewable Energy Power Plant Energy Production Forecasting System”, providing over 15% of the county’s Wind and Solar power plants with the forecasting services required by the national ISO.
+•	National Electric System Emissions Report.
+•	Integrated data visualization platform “Emmonite” focused on Power Plant performance monitoring and decision-making easing.
+
+    - role: Business Evaluation & Development Engineer
       time: 2016 - 2017
       company: EnorChile, Santiago
       details: |
-        Encargado de las propuestas técnico-comerciales y la evaluación de proyectos del área de operaciones.
-        Participación en la creación de nuevos contratos con clientes. 
-        Apoyo en análisis de mercado eléctrico chileno, tanto en proyecciones de costos marginales,
-        como temas normativos. Desarrollo del área de reportabilidad a clientes.
-    - role: Ingeniero Analista
+        Responsible of the technical & economic proposals, and evaluation of most projects in the Asset Management Business Unit. Support in the agreement redaction and negotiations. Participation in the energy market analysis on both operative and regulatory matters.
+Developer of the new “Client Reportability” area. 
+
+    - role: Project Engineer
       time: 2016 - 2016
       company: ATS Energía, Santiago
       details: |
-        Encargado de análisis de factibilidad técnico-económica
-        de implementación de paneles solares en techos de edificios públicos,
-        bajo el marco normativo del Net-Billing.
-        Realización de informes de mercados eléctricos extranjeros.
+        Participated in the technical and economic feasibility of solar panel installation on public buildings roofs, under the Net-Billing regulation.
+         Responsible of Chilean Energy Market reports for foreign clients. 
           
-    - role: Investigador de Apoyo
+    - role: Research Assistant
       time: 2014 - 2016
       company: Universidad Adolfo Ibañez, Santiago
       details: |
-        Participación de una investigación científica en dinámica de fluidos, 
-        con objetivo de estudiar el impacto de la flexibilidad en el empuje 
-        producido por apéndices de natación, entre otros proyectos a 
-        cargo del profesor de la FIC Andrés Concha.
+        Collaboration in fluid dynamics scientific research, with the objective of studying the impact of swimmer-appendage’s flexibility in thrust production, among other projects lead by FIC’s professor Andrés Concha.
 projects:
-    title: Proyectos
+    title: Projects
     intro: >
       Principales proyectos desarrollados y/o en desarrollo a lo largo de mi carrera, trabajando principalmente en Python, MySQL y Power BI.
     assignments:
