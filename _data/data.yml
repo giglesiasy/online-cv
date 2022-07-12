@@ -108,43 +108,41 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Principales proyectos desarrollados y/o en desarrollo a lo largo de mi carrera, trabajando principalmente en Python, MySQL y Power BI.
+      Main projects developed or in development during my career, mostly using python, mySQL and Power BI.
     assignments:
-      - title: Proyecciones de Generación
+      - title: Energy Production Forecast System
         link: "#hook"
-        tagline: "Servicio que utiliza Machine Learning, que estima la generación de centrales de energía renovable variable (Solar y Eólica), y reporta al 
-        Coordinador Eléctrico Nacional según lo indicado por la normativa."
+        tagline: "Machine Learning based system that provides energy production forecast for "Variable Renewable Energy" power plants (Wind & Solar) and delivers it to the Independent
+        System Operator (ISO) as required by regulation."
         
-      - title: Reporte de Emisiones de CO2 del Sistema Eléctrico Nacional
+      - title: National Grid CO2 Emissions Report
         link: "#hook"
-        tagline: "Dashboard público que utiliza los datos de operación reales del Coordinador Eléctrico Nacional, junto con información de los reportes del IPCC en
-        cuanto a factores de emisiones, para entregar un reporte estimado e interactivo de las emisiones de CO2 equivalentes producidas por el sector eléctrico nacional.
+        tagline: "Public dashboard utilizing real operational data provided by the ISO and EPA emmision factor reports, to deliver an integrated, interactive and daily updated report
+        of the estimated CO2equivalent emissions produced by our national electricity production industry.
         https://enorchile.cl/emisiones/"
         
-      - title: Predicción de Demanda
+      - title: Load Forecasting
         link: "#hook"
-        tagline: "Algoritmo de Deep Neural Networks que utiliza los datos históricos de demanda eléctrica y metereológicos del país,
-        para predecir la demanda eléctrica futura (72hrs)."
+        tagline: "Deep Neural Network algorithm that utilizes historic load and weather data to forecast the grid load for the upcoming days."
 
-      - title: Reporte Financiero
+      - title: Financial Report
         link: "#"
-        tagline: "Dashboard en Power BI integrado al sistema ERP de la empresa,
-        donde se puede visualizar rápidamente el estado financiero de la compañia,
-        sus distintos centros de costos, análisis de presupuestos y reportes de KPI en tiempo real, entre otros."
+        tagline: "
+        Power BI Report integrated with the company's ERP system, making it easier to oversight the company's financial performence, real time KPI monitoring, and budget analisys,
+        among others."
 
-      - title: Reporte Operaciones
+      - title: Operations Report
         link: "#"
-        tagline: "Dashboard en Power BI alimentado por los datos rescatados del Coordinador Eléctrico Nacional.
-        Presenta distintas variables y crea relaciones de interés para el área operativa de la empresa. "
+        tagline: "Power BI Report feeded with ISO data, presenting a range of processed data of interest to our Asset Management business unit."
 
-      - title: Análisis de Mercado
+      - title: Market Analisys
         link: "#"
-        tagline: "Dashboard en Power BI, analizando el mercado eléctrico chileno y su operación en distintas dimensiones,
-        permitiendo generar insights y facilitar las segmentaciones de mercado para el área comercial."
+        tagline: "Power BI Report analyzing the Chilean grid market and its operation on different dimensions, allowing for insight creation and easing the market segmentation
+        for the business department."
 
 
 skills:
-    title: Habilidades &amp; Herramientas
+    title: Skills &amp; Tools
 
     toolset:
       - name: Python
@@ -157,20 +155,29 @@ skills:
         level: 98%
 
       - name: MySQL
-        level: 70%
+        level: 85%
 
       - name: QGIS
         level: 60%
+
+      - name: Google Cloud Platform
+        level: 50%
         
       - name: R
         level: 30%        
 
 publications:
-    title: Otros Cursos y Reconocimientos
+    title: Other Courses and  Accomplishments
     intro: |
       
     papers:
-      - title: Curso Fundamentos Data Science
+      - title: Award to Innovation and Technological Development
+        link: "#"
+        authors: Awarded to our “Non-Conventional Renewable Energy Power Plant Energy Production Forecasting System” based on Machine Learning algorithms
+        conference: AHK Chile - Deutsch-Chilenische Industrie- und Handelskammer, 2022
+
+
+      - title: Data Science Fundamentals
         link: "#"
         authors:
         conference: Desafío Latam, 2019
@@ -180,13 +187,13 @@ publications:
         authors: 
         conference: Stanford, 2018
 
-      - title: Beca de Honor Académico
+      - title: Academic Honor Scholarship
         link: "#"
-        authors: Otorgada por destacado rendimiento académico a lo largo de la carrera.
+        authors: Awarded for outstanding academic performance along the study program. Top 6% of graduation class.
         conference: Universidad Adolfo Ibañez, 2014-2015
         
-      - title: Beca de Excelencia Académica Pedro Luis González
+      - title: Pedro Luis Gonzalez Academic Excellency Scholarship – 75%
         link: "#"
-        authors: Beca de 75% por puntaje PSU ponderado mayor a 750 puntos.
+        authors: Highest possible scholarship bracket for outstanding university-entering test scores.
         conference: Universidad Adolfo Ibañez, 2011-2015
 
