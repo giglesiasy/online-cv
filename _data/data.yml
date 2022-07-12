@@ -117,7 +117,7 @@ projects:
         
       - title: National Grid CO2 Emissions Report
         link: "#hook"
-        tagline: "Public dashboard utilizing real operational data provided by the ISO and EPA emmision factor reports, to deliver an integrated, interactive and daily updated report
+        tagline: "Public dashboard utilizing real operational data provided by the ISO and EPA emission factor reports, to deliver an integrated, interactive and daily updated report
         of the estimated CO2equivalent emissions produced by our national electricity production industry.
         https://enorchile.cl/emisiones/"
         
@@ -128,14 +128,14 @@ projects:
       - title: Financial Report
         link: "#"
         tagline: "
-        Power BI Report integrated with the company's ERP system, making it easier to oversight the company's financial performence, real time KPI monitoring, and budget analisys,
+        Power BI Report integrated with the company's ERP system, making it easier to oversight the company's financial performance, real time KPI monitoring, and budget analysis,
         among others."
 
       - title: Operations Report
         link: "#"
-        tagline: "Power BI Report feeded with ISO data, presenting a range of processed data of interest to our Asset Management business unit."
+        tagline: "Power BI Report fed with ISO data, presenting a range of processed data of interest to our Asset Management business unit."
 
-      - title: Market Analisys
+      - title: Market Analysis
         link: "#"
         tagline: "Power BI Report analyzing the Chilean grid market and its operation on different dimensions, allowing for insight creation and easing the market segmentation
         for the business department."
@@ -167,7 +167,7 @@ skills:
         level: 30%        
 
 publications:
-    title: Other Courses and  Accomplishments
+    title: Other Courses and Accomplishments
     intro: |
       
     papers:
