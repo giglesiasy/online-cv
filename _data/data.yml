@@ -110,6 +110,11 @@ projects:
     intro: >
       Main projects developed or in development during my career, mostly using python, mySQL and Power BI.
     assignments:
+      - title: Integrated Power Plant Monitoring Platform
+        link: "#hook"
+        tagline: "SAAS web platform focused on giving power plant owners handful information extracted from a wide range of data sources, ranging from productivity
+        marginal cost, estimated earnings, payments and collection status and energy production forecasting, among others."
+        
       - title: Energy Production Forecast System
         link: "#hook"
         tagline: "Machine Learning based system that provides energy production forecast for "Variable Renewable Energy" power plants (Wind & Solar) and delivers it to the Independent
