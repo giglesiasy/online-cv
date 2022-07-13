@@ -114,12 +114,7 @@ projects:
         link: "#hook"
         tagline: "SAAS web platform focused on giving power plant owners handful information extracted from a wide range of data sources, ranging from productivity
         marginal cost, estimated earnings, payments and collection status and energy production forecasting, among others."
-        
-      - title: Energy Production Forecast System
-        link: "#hook"
-        tagline: "Machine Learning based system that provides energy production forecast for "Variable Renewable Energy" power plants (Wind & Solar) and delivers it to the Independent
-        System Operator (ISO) as required by regulation."
-        
+
       - title: National Grid CO2 Emissions Report
         link: "#hook"
         tagline: "Public dashboard utilizing real operational data provided by the ISO and EPA emission factor reports, to deliver an integrated, interactive and daily updated report
